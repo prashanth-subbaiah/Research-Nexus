@@ -1,0 +1,180 @@
+{
+  "academic_year": "2026–2027",
+  "faculty": [
+    {
+      "name": "Dr. Suresh G",
+      "designation": "Professor",
+      "qualification": "M. Tech and PhD",
+      "specialization": "Image Processing with Network Security",
+      "department_role": "Head of Department"
+    },
+    {
+      "name": "Dr.SASIKUMAR. D",
+      "designation": "Professor",
+      "qualification": "M. E and PhD",
+      "specialization": "Cloud Computing"
+    },
+    {
+      "name": "Dr.SUBHASHINI.P",
+      "designation": "Professor",
+      "qualification": "M. E and PhD",
+      "specialization": "Data Mining, AI"
+    },
+    {
+      "name": "Dr.ANAND BABU.R",
+      "designation": "Associate Professor",
+      "qualification": "M. Tech and PhD",
+      "specialization": "Network Security"
+    },
+    {
+      "name": "Dr.KANIMOZHI.S",
+      "designation": "Associate Professor",
+      "qualification": "M.E and PhD",
+      "specialization": "Communication and Cloud"
+    },
+    {
+      "name": "Dr.ANCY BREEN.W",
+      "designation": "Associate Professor",
+      "qualification": "M. E and PhD",
+      "specialization": "DEEP LEARNING"
+    },
+    {
+      "name": "Dr.NAGALAKSHMI.K",
+      "designation": "Associate Professor",
+      "qualification": "M.E and PhD",
+      "specialization": "Multi Core Processing"
+    },
+    {
+      "name": "Dr.PRABHA.B",
+      "designation": "Associate Professor",
+      "qualification": "M. Tech and PhD",
+      "specialization": "Computer Vision and Deep Learning"
+    },
+    {
+      "name": "Dr.POORNI.R",
+      "designation": "Assistant Professor GR-I",
+      "qualification": "M.E and PhD",
+      "specialization": "Computer Vision"
+    },
+    {
+      "name": "Dr.PRABHU.D",
+      "designation": "Assistant Professor GR-I",
+      "qualification": "M.E and PhD",
+      "specialization": "Machine Learning"
+    },
+    {
+      "name": "Mr.NAGARAJ.J",
+      "designation": "Assistant Professor GR-I",
+      "qualification": "M.Tech",
+      "specialization": "IT"
+    },
+    {
+      "name": "Mr. MUTHU. V",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech",
+      "specialization": "IT"
+    },
+    {
+      "name": "Mrs. VANIPRIYA.B",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mrs.PANDI KUMARI.M.R",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech",
+      "specialization": "IT"
+    },
+    {
+      "name": "Mrs.BHARANI .M",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech",
+      "specialization": "Computational Engineering and Networking"
+    },
+    {
+      "name": "Mr.EZHILVENDAN .M",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "Network Engineering"
+    },
+    {
+      "name": "Mr.ARUN  A",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mr.RIZWAN BASHA. A",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Ms.ALAMELU .R",
+      "designation": "Assistant Professor",
+      "qualification": "ME",
+      "specialization": "CSE with Network Specialization"
+    },
+    {
+      "name": "Ms. DERISHA MAHIL.S",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Ms.MEENAKSHI.L",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Ms.HASHINI.S",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mr.THIYAGARAJAN.C",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mrs.VENITHA.E",
+      "designation": "Assistant Professor",
+      "qualification": "M.TECH",
+      "specialization": "IT"
+    },
+    {
+      "name": "Mrs.SARANYA.V",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mrs.UDHAYA J.M",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mrs.ASHWINI.S",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    },
+    {
+      "name": "Mrs.NITHYA.K",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech",
+      "specialization": "IT"
+    },
+    {
+      "name": "Mrs.MERLIN JOHNCY RANI.G",
+      "designation": "Assistant Professor",
+      "qualification": "M.E",
+      "specialization": "CSE"
+    }
+  ]
+}

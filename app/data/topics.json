@@ -1,0 +1,114 @@
+[
+  {
+    "id": "RN-001",
+    "title": "Industrial visual inspection with MVTec AD",
+    "domain": "Manufacturing",
+    "difficulty": "Intermediate",
+    "source_url": "https://www.mvtec.com/research-teaching/datasets/mvtec-ad",
+    "description": "Study anomaly detection using the published MVTec AD industrial inspection benchmark. Compare a baseline on defect-free training images and labeled test images. This is a proposed academic study based on a public dataset, not an industry commission.",
+    "skills": [
+      "Python",
+      "computer vision",
+      "machine learning"
+    ],
+    "outcome": "Build a reproducible inspection baseline, report detection performance, and inspect failure cases.",
+    "organization": "MVTec Software — dataset publisher",
+    "dataset_notes": "MVTec AD. Review download requirements and CC BY-NC-SA 4.0 terms; commercial use is excluded."
+  },
+  {
+    "id": "RN-002",
+    "title": "Plant leaf disease classification with PlantVillage",
+    "domain": "Agriculture",
+    "difficulty": "Beginner",
+    "source_url": "https://github.com/spMohanty/PlantVillage-Dataset",
+    "description": "Explore image classification using the PlantVillage repository of healthy and diseased leaf images. Define a baseline and document its limitations. Performance on curated photographs does not establish reliable diagnosis in farm conditions. This is a proposed academic study, not an agricultural service.",
+    "skills": [
+      "Python",
+      "image classification",
+      "data analysis"
+    ],
+    "outcome": "Document training and held-out evaluation, inspect errors, and explain limits of generalization.",
+    "organization": "PlantVillage dataset repository",
+    "dataset_notes": "Review the repository, linked publication, dataset terms, and class structure before use."
+  },
+  {
+    "id": "RN-003",
+    "title": "Household electricity demand forecasting with UCI data",
+    "domain": "Energy",
+    "difficulty": "Intermediate",
+    "source_url": "https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption",
+    "description": "Study forecasting using the UCI Individual Household Electric Power Consumption dataset, recorded in a household in Sceaux, France, between 2006 and 2010. Use chronological evaluation to compare a seasonal baseline with a forecasting approach. Findings from one household do not establish campus or grid performance.",
+    "skills": [
+      "Python",
+      "time series",
+      "forecasting"
+    ],
+    "outcome": "Compare forecast errors on a chronological holdout and document missing-value handling.",
+    "organization": "UCI Machine Learning Repository",
+    "dataset_notes": "Individual Household Electric Power Consumption. Review the current metadata and license before downloading."
+  },
+  {
+    "id": "RN-004",
+    "title": "Recognising phishing websites from published URL features",
+    "domain": "Cybersecurity",
+    "difficulty": "Intermediate",
+    "source_url": "https://archive.ics.uci.edu/dataset/327/phishing+websites",
+    "description": "Investigate classification of phishing websites using the UCI dataset of published website features. Evaluate precision and recall, and inspect the trade-off between missed attacks and false alerts. Historical benchmark results do not guarantee protection against current attacks.",
+    "skills": [
+      "Python",
+      "network security",
+      "classification"
+    ],
+    "outcome": "Compare reproducible classification baselines and document false-positive and false-negative cases.",
+    "organization": "UCI Machine Learning Repository",
+    "dataset_notes": "Use the published feature dataset for analysis; do not visit suspicious websites. Review current source terms."
+  },
+  {
+    "id": "RN-005",
+    "title": "Learning from Google cluster workload traces",
+    "domain": "Cloud Computing",
+    "difficulty": "Advanced",
+    "source_url": "https://github.com/google/cluster-data",
+    "description": "Explore resource demand and scheduling patterns in Google’s published cluster traces. Form a bounded question about workload behavior and compare an interpretable resource-demand baseline. These published traces do not provide access to Google’s current infrastructure.",
+    "skills": [
+      "Python",
+      "cloud computing",
+      "data analysis"
+    ],
+    "outcome": "Describe workload patterns and evaluate a small resource-demand prediction experiment.",
+    "organization": "Google cluster-data repository",
+    "dataset_notes": "Check the documentation, trace version, access requirements, and data volume before downloading. Work with a manageable subset."
+  },
+  {
+    "id": "RN-006",
+    "title": "Classifying unwanted SMS messages",
+    "domain": "Natural Language Processing",
+    "difficulty": "Beginner",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection",
+    "description": "Study text classification using the UCI SMS Spam Collection. Compare a simple bag-of-words baseline with another classifier. Inspect false alarms and ambiguous messages rather than treating a benchmark score as evidence of production reliability.",
+    "skills": [
+      "Python",
+      "NLP",
+      "text classification"
+    ],
+    "outcome": "Develop a reproducible text classification baseline with a documented held-out evaluation.",
+    "organization": "UCI Machine Learning Repository",
+    "dataset_notes": "Review dataset documentation, license, language coverage and message handling requirements before use."
+  },
+  {
+    "id": "RN-007",
+    "title": "Forecasting shared bicycle demand",
+    "domain": "Transportation",
+    "difficulty": "Beginner",
+    "source_url": "https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset",
+    "description": "Explore hourly and daily bike-rental counts from the Capital Bikeshare dataset for 2011–2012, published by UCI. Study how weather and calendar features relate to demand, using chronological evaluation. Historical findings must be checked before transfer to a different city.",
+    "skills": [
+      "Python",
+      "forecasting",
+      "data analysis"
+    ],
+    "outcome": "Compare a seasonal demand baseline with a regression model and report chronological holdout errors.",
+    "organization": "UCI Machine Learning Repository",
+    "dataset_notes": "Review the dataset documentation, attribution requirements, and hourly/daily table definitions."
+  }
+]
